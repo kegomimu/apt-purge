@@ -17,3 +17,6 @@ For example does `apt purge libvirt0` and `apt-get autoclean` remove the package
 3. `apt purge` and `apt-get autoclean`
 4. Users, groups, folders and files are scanned for connections to the service to be removed
 5. All findings will be deleted while not destroying the OS
+
+> [!NOTE]
+> Coming tomorrow
