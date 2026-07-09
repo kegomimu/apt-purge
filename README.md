@@ -1,6 +1,6 @@
 # apt-purge
 
-A simple package which removes a package completely
+A simple package which removes packages and their doings completely
 
 ## The problem
 `apt purge` or `dpkg purge` does not completely remove created folders, files, users, groups and services of a package.
